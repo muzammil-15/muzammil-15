@@ -33,7 +33,7 @@
 <br/>
 <hr/>
 <div align="center"> <h2>⚡ My Github Stats ⚡</h2> 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muzammil-15&show_icons=true&locale=en&theme=tokyonight" alt="muzammil-15" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muzammil-15&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio" /></p>
 <div/>
 
 <!-- <div align="center">
