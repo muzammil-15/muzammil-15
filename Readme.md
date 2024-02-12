@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-15&label=Profile%20views&color=green" alt="muzammil-15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15" alt="muzammil-15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="muzammil-15" /></a> </p>
 
  
 <div align="center"> 
@@ -16,8 +16,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -27,8 +25,8 @@
 </div>
 
 <br/>
-<hr/>
+
 <div align="center"> <h2>⚡ My Github Stats ⚡</h2> 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muzammil-15&show_icons=true&locale=en&theme=tokyonight" alt="muzammil" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muzammil-15&show_icons=true&locale=en&theme=tokyonight" alt="muzammil-15" /></p>
 <div/>
 
