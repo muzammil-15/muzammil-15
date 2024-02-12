@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muzammil Hussain</h1>
 <h3 align="center">A passionate web developer from pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-15&label=Profile%20views&color=green" alt="muzammil-15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-15&label=Profile%20views&color=yellow&abbreviated=true" alt="muzammil-15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="muzammil-15" /></a> </p>
 
