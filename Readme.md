@@ -1,32 +1,48 @@
-<h1 align="center">Hi 👋, I'm Muzammil Hussain</h1>
-<h3 align="center">A passionate web developer from pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-15&label=Profile%20views&color=yellow&abbreviated=true" alt="muzammil-15" /> </p>
+# 👋 Hi, I'm Muzammil Hussain  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-15&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="muzammil-15" /></a> </p>
+💻 **Full Stack Developer | MERN & Next.js Enthusiast | AI Integrator**  
+🚀 Passionate about building impactful digital solutions with modern web technologies.  
 
- 
-<div align="center"> 
-  <a href="muzammilalyari15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/muzammil-hussain-a72187262/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://muzammil-dev.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
-</div>
+---
 
-<br/>
+## 🧑‍💻 About Me  
+- 🎓 Computer Science student from Pakistan  
+- 🌱 Currently learning **advanced backend development & AI integration**  
+- 💡 Interested in solving real-world problems in **education, productivity, and collaboration**  
+- 🤝 Open to collaborations on projects where I can contribute meaningfully  
 
-<div align="center"> <h2>⚡ My Github Stats ⚡</h2> 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=muzammil-15&show_icons=true&locale=en&theme=tokyonight" alt="muzammil-15" /></p>
-<div/>
+---
 
+## 🛠️ Tech Stack  
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Appwrite, Firebase, MongoDB  
+- **Other:** Git/GitHub, REST APIs, AI/ML basics  
+
+---
+
+## 📂 Featured Projects  
+
+### 🚀 Real Projects  
+- 🔹 **[FinalYear.ai](#)** → AI-based platform generating unique final-year project ideas  
+- 🔹 **Free Drive GB** → Ride-sharing platform for Gilgit Baltistan (Next.js + Appwrite)  
+- 🔹 **AI Short Video Generator** → Web app to create AI-powered short videos  
+- 🔹 **SnapUI** → Copy-paste UI component library (like Aceternity UI / Magic UI)  
+- 🔹 **SaaS LMS** → Learning Management System for managing courses, students, and progress  
+- 🔹 **TaskFlow** → A team productivity app for task tracking & real-time collaboration   
+- 🔹 **HealthTrack** → Personal health & fitness tracking web application  
+
+---
+
+## 📈 GitHub Stats  
+![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzammil-15&show_icons=true&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 🌍 [Portfolio Website](https://muzammil-dev.vercel.app)  
+- 📧 Email: muzammilcoder15@gmail.com  
+
+---
+⭐️ From [Muzammil Hussian](https://github.com/muzammil-15)
