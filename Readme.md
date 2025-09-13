@@ -4,6 +4,7 @@
 🚀 Passionate about building impactful digital solutions with modern web technologies.  
 
 
+
 ## 🧑‍💻 About Me  
 - 🎓 Computer Science student from Pakistan  
 - 🌱 Currently learning **advanced backend development & AI integration**  
@@ -18,7 +19,7 @@
 - **Backend:** Node.js, Express.js, Appwrite, Firebase, MongoDB  
 - **Other:** Git/GitHub, REST APIs, AI/ML basics  
 
----
+
 
 ## 📂 Featured Projects  
 
@@ -31,17 +32,17 @@
 - 🔹 **TaskFlow** → A team productivity app for task tracking & real-time collaboration   
 - 🔹 **HealthTrack** → Personal health & fitness tracking web application  
 
----
+
 
 ## 📈 GitHub Stats  
 ![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzammil-15&show_icons=true&theme=radical)  
 
----
+
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
 - 🌍 [Portfolio Website](https://muzammil-dev.vercel.app)  
 - 📧 Email: muzammilcoder15@gmail.com  
 
----
+
 ⭐️ From [Muzammil Hussian](https://github.com/muzammil-15)
