@@ -11,7 +11,7 @@
 - 💡 Interested in solving real-world problems in **education, productivity, and collaboration**  
 - 🤝 Open to collaborations on projects where I can contribute meaningfully  
 
----
+
 
 ## 🛠️ Tech Stack  
 - **Languages:** JavaScript, TypeScript, Python  
