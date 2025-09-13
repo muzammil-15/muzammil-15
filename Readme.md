@@ -3,7 +3,6 @@
 💻 **Full Stack Developer | MERN & Next.js Enthusiast | AI Integrator**  
 🚀 Passionate about building impactful digital solutions with modern web technologies.  
 
----
 
 ## 🧑‍💻 About Me  
 - 🎓 Computer Science student from Pakistan  
