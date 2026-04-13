@@ -1,48 +1,47 @@
-# 👋 Hi, I'm Muzammil Hussain  
+<h1>Muzammil Hussain</h1>
 
-💻 **Full Stack Developer | MERN & Next.js Enthusiast | AI Integrator**  
-🚀 Passionate about building impactful digital solutions with modern web technologies.  
+**Full-Stack Developer** · MERN · Next.js · AI Integration · Pakistan
 
+[![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-%230D6EFD.svg?style=flat-square&logoColor=white)](mailto:muzammilcoder15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muzammil--dev.vercel.app-black?style=flat-square)](https://muzammil-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
 
+---
 
-## 🧑‍💻 About Me  
-- 🎓 Computer Science student from Pakistan  
-- 🌱 Currently learning **advanced backend development & AI integration**  
-- 💡 Interested in solving real-world problems in **education, productivity, and collaboration**  
-- 🤝 Open to collaborations on projects where I can contribute meaningfully  
+### About
 
+I build full-stack web applications and AI-powered tools that solve real problems in education, productivity, and collaboration. Currently exploring advanced backend architecture and LLM integration.
 
+---
 
-## 🛠️ Tech Stack  
-- **Languages:** JavaScript, TypeScript, Python  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Appwrite, Firebase, MongoDB  
-- **Other:** Git/GitHub, REST APIs, AI/ML basics  
+### Tech Stack
 
+| Layer | Technologies |
+|---|---|
+| Languages | JavaScript · TypeScript · Python |
+| Frontend | React · Next.js · Tailwind CSS |
+| Backend | Node.js · Express · MongoDB · Appwrite · Firebase |
+| Other | REST APIs · Git · AI/ML basics |
 
+---
 
-## 📂 Featured Projects  
+### Selected Projects
 
-### 🚀 Real Projects  
-- 🔹 **[FinalYear.ai](#)** → AI-based platform generating unique final-year project ideas  
-- 🔹 **Free Drive GB** → Ride-sharing platform for Gilgit Baltistan (Next.js + Appwrite)  
-- 🔹 **AI Short Video Generator** → Web app to create AI-powered short videos  
-- 🔹 **SnapUI** → Copy-paste UI component library (like Aceternity UI / Magic UI)  
-- 🔹 **SaaS LMS** → Learning Management System for managing courses, students, and progress  
-- 🔹 **TaskFlow** → A team productivity app for task tracking & real-time collaboration   
-- 🔹 **HealthTrack** → Personal health & fitness tracking web application  
+| Project | Description |
+|---|---|
+| **Motionx UI** | Modern UI components, sections, blocks, and templates library for React, Next.js, and TypeScript |
+| **SaaS LMS** | Course & student management system with progress tracking |
+| **AI Short Video Generator** | Web app to create AI-powered short-form videos |
+| **Vertexa Studio** | Minimal animation-focused agency website with clean design and smooth interactions |
 
+---
 
+### GitHub Stats
 
-## 📈 GitHub Stats  
-![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzammil-15&show_icons=true&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=muzammil-15&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=muzammil-15&theme=github-dark-blue&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-15&layout=compact&theme=github_dark_dimmed&hide_border=true)
 
+---
 
-
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 🌍 [Portfolio Website](https://muzammil-dev.vercel.app)  
-- 📧 Email: muzammilcoder15@gmail.com  
-
-
-⭐️ From [Muzammil Hussian](https://github.com/muzammil-15)
+<sub>muzammilcoder15@gmail.com · [muzammil-dev.vercel.app](https://portfolio-motionx.vercel.app/)</sub>
