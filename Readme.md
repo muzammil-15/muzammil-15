@@ -3,8 +3,8 @@
 **Full-Stack Developer** · MERN · Next.js · AI Integration · Pakistan
 
 [![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-%230D6EFD.svg?style=flat-square&logoColor=white)](mailto:muzammilcoder15@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-muzammil--dev.vercel.app-black?style=flat-square)](https://muzammil-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muzammil--dev.vercel.app-black?style=flat-square)](https://portfolio-motionx.vercel.app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MuzammilHu68318)
 
 ---
 
